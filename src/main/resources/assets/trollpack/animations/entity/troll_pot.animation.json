@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"nudge":{"loop":false,"animation_length":0.75,"bones":{"pot":{"rotation":{"0":{"post":[-3.78051,-0.26466,13.27089],"lerp_mode":"catmullrom"},"0.2083":{"post":[0.54525,0.33083,-2.29857],"lerp_mode":"catmullrom"},"0.5833":{"post":[0.0,0.0,0.0],"lerp_mode":"catmullrom"}},"position":{"0":{"post":[0.0,0.0,0.0],"lerp_mode":"catmullrom"}}}}}}}

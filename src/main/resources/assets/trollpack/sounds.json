@@ -1,0 +1,67 @@
+{
+ "greetings": {
+  "sounds": [
+   "trollpack:greetings"
+  ]
+ },
+ "heal": {
+  "sounds": [
+   "trollpack:heal"
+  ]
+ },
+ "impact1": {
+  "sounds": [
+   "trollpack:impact1"
+  ]
+ },
+ "impact2": {
+  "sounds": [
+   "trollpack:impact2"
+  ]
+ },
+ "impact3": {
+  "sounds": [
+   "trollpack:impact3"
+  ]
+ },
+ "impact4": {
+  "sounds": [
+   "trollpack:impact4"
+  ]
+ },
+ "jump": {
+  "sounds": [
+   "trollpack:jump"
+  ]
+ },
+ "spell_attack": {
+  "sounds": [
+   "trollpack:spell_attack"
+  ]
+ },
+ "swing1": {
+  "sounds": [
+   "trollpack:swing1"
+  ]
+ },
+ "swing2": {
+  "sounds": [
+   "trollpack:swing2"
+  ]
+ },
+ "swing3": {
+  "sounds": [
+   "trollpack:swing3"
+  ]
+ },
+ "swing4": {
+  "sounds": [
+   "trollpack:swing4"
+  ]
+ },
+ "swing5": {
+  "sounds": [
+   "trollpack:swing5"
+  ]
+ }
+}
